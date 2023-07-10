@@ -7,3 +7,5 @@ Whenever a number in that list is divisible by 3, replace the number with "fizz"
 Whenever a number in that list is divisible by 5, replace the number with "buzz".
 
 Whenever a number in that list is divisible by both 3 and 5, replace the number with "fizzbuzz".
+
+Complete the tests to cover all scenarios.
